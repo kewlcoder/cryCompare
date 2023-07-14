@@ -1,3 +1,8 @@
+# Note by me : this code has been a fork taken from - https://github.com/ddxv/cryCompare
+# I have forked it at - https://github.com/kewlcoder/cryCompare
+# Another developed fork of thiss repo worth mention is - https://github.com/Max-Pol/cryptoscrap
+# Another repo worth mentioning is - https://github.com/kewlcoder/cryptoCMD
+
 import sys
 import requests
 import warnings
